@@ -1,16 +1,18 @@
-### Hi there 👋
+# E aí, pessoa! 👋
+## Meu nome é **Fabio Santos** e sou desenvolvedor
 
-<!--
-**FSantosx/FSantosx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cursos
+_______________________________
+- Formado em ***Técnico em Informática*** pelo Instituto Federal de São Paulo - Campus Campos do Jordão
+- Formando em ***Tecnologo em Analise e Desenvolvimento de Sistemas*** Instituto Federal de São Paulo - Campus Campos do Jordão
+_______________________________
 
-Here are some ideas to get you started:
+### Estou trabalhando atualmente com Java 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Linguagens que ja utilizei**
+
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
