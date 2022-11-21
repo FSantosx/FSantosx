@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Fábio Santos
 #### I am software developer
 
-I am 25 years old. I love technology and games.
+I am 26 years old. I love technology and games.
 
 _______________________________
 - Graduated in ***Computer Technician*** from the Federal Institute of São Paulo - Campus Campos do Jordão
