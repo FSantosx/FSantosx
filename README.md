@@ -1,23 +1,19 @@
-### Hi there 👋, my name is Fábio Santos
-#### I am software developer
+# Olá, eu sou o Fabio Santos! 👋
 
-I am 26 years old. I love technology and games.
+## 🌟 Resumo Profissional
+Meu nome é Fabio Santos, tenho 27 anos e possuo 3 anos de experiência na área de desenvolvimento de software com o foco em fullstack. Atualmente, trabalho na Flapper, uma empresa de táxi aéreo que está revolucionando a mobilidade urbana ao oferecer voos fretados e compartilhados de helicópteros e aviões em diversas cidades do Brasil. 
 
-_______________________________
-- Graduated in ***Computer Technician*** from the Federal Institute of São Paulo - Campus Campos do Jordão
-- Graduating in ***Technologist in Analysis and Systems Development*** from the Federal Institute of São Paulo - Campus Campos do Jordão
-_______________________________
+## 🎓 Formação Acadêmica
+- **Técnico em Informática** pelo Instituto Federal do Estado de São Paulo, Campus Campos do Jordão
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** pelo Instituto Federal do Estado de São Paulo, Campus Campos do Jordão
 
-Skills: ![C#](https://img.shields.io/badge/C_Sharp-000?logo=c-sharp) / ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=007396) / ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) 
+## 🚀 Habilidades
+- **JavaScript (Node.js)** 🌟🌟🌟🌟
+- **PHP** 🌟🌟🌟
+- **Python** 🌟🌟🌟
+- **C++** 🌟🌟🌟
+- **MySQL** 🌟🌟🌟
+- **Go Lang** 🌟🌟
 
-_______________________________
-- 🌱 I’m currently learning Python and Javascript
-_______________________________
-
-#### Social
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FSantosx)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fsantoss//) 
-_______________________________
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FSantosx)](https://github.com/anuraghazra/github-readme-stats)  
-
-![Profile views](https://gpvc.arturio.dev/FSantosx)  
+## 🔗 Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fsantoss/)
