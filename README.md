@@ -1,7 +1,7 @@
 # Olá, eu sou o Fabio Santos! 👋
 
 ## 🌟 Experiência Profissional
-Meu nome é Fabio Santos, tenho 28 anos e possuo 4 anos de experiência na área de desenvolvimento de software com o foco em fullstack. Atualmente, trabalho na Flapper, uma empresa de táxi aéreo que está revolucionando a mobilidade urbana ao oferecer voos fretados e compartilhados de helicópteros e aviões em diversas cidades do Brasil. 
+Meu nome é Fabio Santos, tenho 29 anos e possuo 4 anos de experiência na área de desenvolvimento de software com o foco em fullstack. Atualmente, trabalho na Flapper, uma empresa de táxi aéreo que está revolucionando a mobilidade urbana ao oferecer voos fretados e compartilhados de helicópteros e aviões em diversas cidades do Brasil. 
 
 ## 🎓 Formação Acadêmica
 - **Técnico em Informática** pelo Instituto Federal do Estado de São Paulo, Campus Campos do Jordão
